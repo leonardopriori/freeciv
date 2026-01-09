@@ -1,0 +1,1295 @@
+; All the names of volcanoes. 
+; This file is part of the script for "The Volcanoes Are Alive!".
+
+[volcano_1]
+name = "Abu"
+
+[volcano_2]
+name = "Acamarachi"
+
+[volcano_3]
+name = "Acatenango"
+
+[volcano_4]
+name = "Acigöl-Nevsehir"
+
+[volcano_5]
+name = "Adams"
+
+[volcano_6]
+name = "Adams Seamount"
+
+[volcano_7]
+name = "Adatara"
+
+[volcano_8]
+name = "Adwa"
+
+[volcano_9]
+name = "Afderà"
+
+[volcano_10]
+name = "Agrigan"
+
+[volcano_11]
+name = "Agua"
+
+[volcano_12]
+name = "Agua de Pau"
+
+[volcano_13]
+name = "Aguilera"
+
+[volcano_14]
+name = "Agung"
+
+[volcano_15]
+name = "Ahyi"
+
+[volcano_16]
+name = "Akademia Nauk"
+
+[volcano_17]
+name = "Akagi"
+
+[volcano_18]
+name = "Akan"
+
+[volcano_19]
+name = "Akhtang"
+
+[volcano_20]
+name = "Akita Komagatake"
+
+[volcano_21]
+name = "Akita Yakeyama"
+
+[volcano_22]
+name = "Akuseki-jima"
+
+[volcano_23]
+name = "Akutan"
+
+[volcano_24]
+name = "Alaid"
+
+[volcano_25]
+name = "Alamagan"
+
+[volcano_26]
+name = "Alayta"
+
+[volcano_27]
+name = "Alban Hills"
+
+[volcano_28]
+name = "Alcedo"
+
+[volcano_29]
+name = "Ale Bagu"
+
+[volcano_30]
+name = "Alid"
+
+[volcano_31]
+name = "Ambrym"
+
+[volcano_32]
+name = "Ambrym"
+
+[volcano_33]
+name = "Anatahan"
+
+[volcano_34]
+name = "Aneityum"
+
+[volcano_35]
+name = "Aniakchak"
+
+[volcano_36]
+name = "Antisana"
+
+[volcano_37]
+name = "Aoba"
+
+[volcano_38]
+name = "Ararat"
+
+[volcano_39]
+name = "Arenal"
+
+[volcano_40]
+name = "Arintica"
+
+[volcano_41]
+name = "Asacha"
+
+[volcano_42]
+name = "Asama"
+
+[volcano_43]
+name = "Ascensión"
+
+[volcano_44]
+name = "Askja"
+
+[volcano_45]
+name = "Aso"
+
+[volcano_46]
+name = "Atitlán"
+
+[volcano_47]
+name = "Atka"
+
+[volcano_48]
+name = "Atsonupuri"
+
+[volcano_49]
+name = "Augustine"
+
+[volcano_50]
+name = "Avachinsky"
+
+[volcano_51]
+name = "Awu"
+
+[volcano_52]
+name = "Axial Seamount"
+
+[volcano_53]
+name = "Ayelu"
+
+[volcano_54]
+name = "Azufre"
+
+[volcano_55]
+name = "Azuma"
+
+[volcano_56]
+name = "Babuyon Claro"
+
+[volcano_57]
+name = "Bachelor"
+
+[volcano_58]
+name = "Bagana"
+
+[volcano_59]
+name = "Baker"
+
+[volcano_60]
+name = "Bam"
+
+[volcano_61]
+name = "Bamus"
+
+[volcano_62]
+name = "Bandai"
+
+[volcano_63]
+name = "Barren Island"
+
+[volcano_64]
+name = "Barrier"
+
+[volcano_65]
+name = "Bazman"
+
+[volcano_66]
+name = "Beerenberg"
+
+[volcano_67]
+name = "Belknap"
+
+[volcano_68]
+name = "Bezymianny"
+
+[volcano_69]
+name = "Biliran"
+
+[volcano_70]
+name = "Bolshoi Semiachik"
+
+[volcano_71]
+name = "Bulusan"
+
+[volcano_72]
+name = "Butajira"
+
+[volcano_73]
+name = "Butajira"
+
+[volcano_74]
+name = "Camiguin de Babuyanes"
+
+[volcano_75]
+name = "Canlaon"
+
+[volcano_76]
+name = "Capulin"
+
+[volcano_77]
+name = "Carrizozo"
+
+[volcano_78]
+name = "Cayambe"
+
+[volcano_79]
+name = "Cereme"
+
+[volcano_80]
+name = "Chaine des Puys"
+
+[volcano_81]
+name = "Chiginagak"
+
+[volcano_82]
+name = "Chikurachki"
+
+[volcano_83]
+name = "Chimborazo"
+
+[volcano_84]
+name = "Cleveland"
+
+[volcano_85]
+name = "Coatepeque"
+
+[volcano_86]
+name = "Colima"
+
+[volcano_87]
+name = "Concepción"
+
+[volcano_88]
+name = "Copahue"
+
+[volcano_89]
+name = "Cosigüina"
+
+[volcano_90]
+name = "Cotopaxi"
+
+[volcano_91]
+name = "Crater Lake"
+
+[volcano_92]
+name = "Craters of the Moon"
+
+[volcano_93]
+name = "Daisetsu"
+
+[volcano_94]
+name = "Dakataua"
+
+[volcano_95]
+name = "Damavand"
+
+[volcano_96]
+name = "Deccan Traps"
+
+[volcano_97]
+name = "Dempo"
+
+[volcano_98]
+name = "Devils Garden"
+
+[volcano_99]
+name = "Devils Tower"
+
+[volcano_100]
+name = "Diamond Craters"
+
+[volcano_101]
+name = "Dieng Volcanic Complex"
+
+[volcano_102]
+name = "Diky Greben"
+
+[volcano_103]
+name = "Dubbi"
+
+[volcano_104]
+name = "Dukono"
+
+[volcano_105]
+name = "East Epi"
+
+[volcano_106]
+name = "Ebeko"
+
+[volcano_107]
+name = "Egmont (Taranaki)"
+
+[volcano_108]
+name = "Egon"
+
+[volcano_109]
+name = "El Chichon"
+
+[volcano_110]
+name = "Elbrus"
+
+[volcano_111]
+name = "Erebus"
+
+[volcano_112]
+name = "Erta Ale"
+
+[volcano_113]
+name = "Etna"
+
+[volcano_114]
+name = "Fantale"
+
+[volcano_115]
+name = "Fernandina"
+
+[volcano_116]
+name = "Fisher"
+
+[volcano_117]
+name = "Fogo"
+
+[volcano_118]
+name = "Fort Rock"
+
+[volcano_119]
+name = "Frosty Peak"
+
+[volcano_120]
+name = "Fuego"
+
+[volcano_121]
+name = "Fuerteventura"
+
+[volcano_122]
+name = "Fuji"
+
+[volcano_123]
+name = "Furnas"
+
+[volcano_124]
+name = "Fuss Peak"
+
+[volcano_125]
+name = "Galeras"
+
+[volcano_126]
+name = "Galunggung"
+
+[volcano_127]
+name = "Gamalama"
+
+[volcano_128]
+name = "Gamchen"
+
+[volcano_129]
+name = "Gamkonora"
+
+[volcano_130]
+name = "Gareloi"
+
+[volcano_131]
+name = "Gaua"
+
+[volcano_132]
+name = "Gede"
+
+[volcano_133]
+name = "Glacier Peak"
+
+[volcano_134]
+name = "Gorely"
+
+[volcano_135]
+name = "Graciosa"
+
+[volcano_136]
+name = "Gran Canaria"
+
+[volcano_137]
+name = "Great Sitkin"
+
+[volcano_138]
+name = "Griggs"
+
+[volcano_139]
+name = "Grímsvötn"
+
+[volcano_140]
+name = "Guagua Pichincha"
+
+[volcano_141]
+name = "Guallatiri"
+
+[volcano_142]
+name = "Guguan"
+
+[volcano_143]
+name = "Hakone"
+
+[volcano_144]
+name = "Heard"
+
+[volcano_145]
+name = "Hibok-hibok"
+
+[volcano_146]
+name = "Hierro"
+
+[volcano_147]
+name = "Hood"
+
+[volcano_148]
+name = "Hualalai"
+
+[volcano_149]
+name = "Ibu"
+
+[volcano_150]
+name = "Ijen"
+
+[volcano_151]
+name = "Iliamna"
+
+[volcano_152]
+name = "Iliboleng"
+
+[volcano_153]
+name = "Iliniza"
+
+[volcano_154]
+name = "Ilopango"
+
+[volcano_155]
+name = "Ilyinsky"
+
+[volcano_156]
+name = "Ioto (Iwo-jima)"
+
+[volcano_157]
+name = "Iraya"
+
+[volcano_158]
+name = "Irazu"
+
+[volcano_159]
+name = "Isanotski"
+
+[volcano_160]
+name = "Izalco"
+
+[volcano_161]
+name = "Iztaccihuatl"
+
+[volcano_162]
+name = "Izu-Tobu"
+
+[volcano_163]
+name = "Jailolo"
+
+[volcano_164]
+name = "Jefferson"
+
+[volcano_165]
+name = "Jordan Craters"
+
+[volcano_166]
+name = "Kadovar"
+
+[volcano_167]
+name = "Kaguyak"
+
+[volcano_168]
+name = "Kahoolawe"
+
+[volcano_169]
+name = "Kambalny"
+
+[volcano_170]
+name = "Kanaga"
+
+[volcano_171]
+name = "Karangetang"
+
+[volcano_172]
+name = "Karisimbi"
+
+[volcano_173]
+name = "Karthala"
+
+[volcano_174]
+name = "Karymsky"
+
+[volcano_175]
+name = "Katla"
+
+[volcano_176]
+name = "Katmai"
+
+[volcano_177]
+name = "Katwe-Kikorongo"
+
+[volcano_178]
+name = "Kavachi"
+
+[volcano_179]
+name = "Kell"
+
+[volcano_180]
+name = "Kelut"
+
+[volcano_181]
+name = "Kerinci"
+
+[volcano_182]
+name = "Khodutka"
+
+[volcano_183]
+name = "Kialagvik"
+
+[volcano_184]
+name = "Kick 'em Jenny"
+
+[volcano_185]
+name = "Kikai"
+
+[volcano_186]
+name = "Kikhpinych"
+
+[volcano_187]
+name = "Kilauea"
+
+[volcano_188]
+name = "Kilimanjaro"
+
+[volcano_189]
+name = "Kirishima"
+
+[volcano_190]
+name = "Kliuchevskoi"
+
+[volcano_191]
+name = "Komagatake"
+
+[volcano_192]
+name = "Kone"
+
+[volcano_193]
+name = "Koryaksky"
+
+[volcano_194]
+name = "Koshelev"
+
+[volcano_195]
+name = "Krafla"
+
+[volcano_196]
+name = "Krakatau"
+
+[volcano_197]
+name = "Krasheninnikov"
+
+[volcano_198]
+name = "Kronotsky"
+
+[volcano_199]
+name = "Ksudach"
+
+[volcano_200]
+name = "Kukak"
+
+[volcano_201]
+name = "Kusatsu-Shirane"
+
+[volcano_202]
+name = "Kutcharo"
+
+[volcano_203]
+name = "Kuttara"
+
+[volcano_204]
+name = "Kuwae"
+
+[volcano_205]
+name = "La Palma"
+
+[volcano_206]
+name = "Lamington"
+
+[volcano_207]
+name = "Langila"
+
+[volcano_208]
+name = "Lanzarote"
+
+[volcano_209]
+name = "Láscar"
+
+[volcano_210]
+name = "Lereboleng"
+
+[volcano_211]
+name = "Lewotobi"
+
+[volcano_212]
+name = "Lewotolo"
+
+[volcano_213]
+name = "Liamuiga"
+
+[volcano_214]
+name = "Lipari"
+
+[volcano_215]
+name = "Little Sitkin"
+
+[volcano_216]
+name = "Loihi"
+
+[volcano_217]
+name = "Lokon-Empung"
+
+[volcano_218]
+name = "Lolo"
+
+[volcano_219]
+name = "Lolobau"
+
+[volcano_220]
+name = "Loloru"
+
+[volcano_221]
+name = "Long Island"
+
+[volcano_222]
+name = "Longonot"
+
+[volcano_223]
+name = "Lopevi"
+
+[volcano_224]
+name = "Maderas"
+
+[volcano_225]
+name = "Mageik"
+
+[volcano_226]
+name = "Mahawu"
+
+[volcano_227]
+name = "Makian"
+
+[volcano_228]
+name = "Maly Semiachik"
+
+[volcano_229]
+name = "Manam"
+
+[volcano_230]
+name = "Mariveles"
+
+[volcano_231]
+name = "Marsabit"
+
+[volcano_232]
+name = "Masaya"
+
+[volcano_233]
+name = "Mashkovtsev"
+
+[volcano_234]
+name = "Mashu"
+
+[volcano_235]
+name = "Mauna Kea"
+
+[volcano_236]
+name = "Mauna Loa"
+
+[volcano_237]
+name = "Mayon"
+
+[volcano_238]
+name = "McDonald Islands"
+
+[volcano_239]
+name = "McLoughlin"
+
+[volcano_240]
+name = "McLoughlin"
+
+[volcano_241]
+name = "Mega Basalt Field"
+
+[volcano_242]
+name = "Mega Basalt Field"
+
+[volcano_243]
+name = "Menan Buttes"
+
+[volcano_244]
+name = "Menengai"
+
+[volcano_245]
+name = "Merapi"
+
+[volcano_246]
+name = "Merbabu"
+
+[volcano_247]
+name = "Meru"
+
+[volcano_248]
+name = "Methana"
+
+[volcano_249]
+name = "Metis Shoal"
+
+[volcano_250]
+name = "Michael"
+
+[volcano_251]
+name = "Michoacan-Guanajuato"
+
+[volcano_252]
+name = "Mílos"
+
+[volcano_253]
+name = "Miyake-jima"
+
+[volcano_254]
+name = "Moffett"
+
+[volcano_255]
+name = "Mojanda"
+
+[volcano_256]
+name = "Momotombo"
+
+[volcano_257]
+name = "Monaco Bank"
+
+[volcano_258]
+name = "Mono Lake Vol Field"
+
+[volcano_259]
+name = "Monowai Seamount"
+
+[volcano_260]
+name = "Moti"
+
+[volcano_261]
+name = "Muria"
+
+[volcano_262]
+name = "Nantai"
+
+[volcano_263]
+name = "Nasu"
+
+[volcano_264]
+name = "Navajo Volcanic Field"
+
+[volcano_265]
+name = "Negro, Cerro"
+
+[volcano_266]
+name = "Nemo Peak"
+
+[volcano_267]
+name = "Nevis Peak"
+
+[volcano_268]
+name = "Newberry"
+
+[volcano_269]
+name = "Newer Volcanics Province"
+
+[volcano_270]
+name = "Ngauruhoe"
+
+[volcano_271]
+name = "Nikko-Shirane"
+
+[volcano_272]
+name = "Nipesotsu-Maruyama"
+
+[volcano_273]
+name = "Nisyros"
+
+[volcano_274]
+name = "Nyambeni Hills"
+
+[volcano_275]
+name = "Nyamuragira"
+
+[volcano_276]
+name = "Nyiragongo"
+
+[volcano_277]
+name = "Oahu"
+
+[volcano_278]
+name = "Ojos del Salado"
+
+[volcano_279]
+name = "Ojos del Salado"
+
+[volcano_280]
+name = "Okataina"
+
+[volcano_281]
+name = "Okmok"
+
+[volcano_282]
+name = "Oku Volcanic Field"
+
+[volcano_283]
+name = "Ol Doinyo Lengai"
+
+[volcano_284]
+name = "Opala"
+
+[volcano_285]
+name = "Oraefajokull"
+
+[volcano_286]
+name = "Oshima"
+
+[volcano_287]
+name = "Pacaya"
+
+[volcano_288]
+name = "Pagan"
+
+[volcano_289]
+name = "Pago"
+
+[volcano_290]
+name = "Papandayan"
+
+[volcano_291]
+name = "Paricutin"
+
+[volcano_292]
+name = "Parinacota"
+
+[volcano_293]
+name = "Pauzhetka"
+
+[volcano_294]
+name = "Pavlof"
+
+[volcano_295]
+name = "Pavlof Sister"
+
+[volcano_296]
+name = "Pelee"
+
+[volcano_297]
+name = "Peuet Sague"
+
+[volcano_298]
+name = "Pico"
+
+[volcano_299]
+name = "Pilas, Las"
+
+[volcano_300]
+name = "Pinacate"
+
+[volcano_301]
+name = "Pinatubo"
+
+[volcano_302]
+name = "Pisgah Lava Field"
+
+[volcano_303]
+name = "Piton de la Fournaise"
+
+[volcano_304]
+name = "Poas"
+
+[volcano_305]
+name = "Popocatepetl"
+
+[volcano_306]
+name = "Prevo Peak"
+
+[volcano_307]
+name = "Purace"
+
+[volcano_308]
+name = "Quill, The"
+
+[volcano_309]
+name = "Rabaul"
+
+[volcano_310]
+name = "Ragang"
+
+[volcano_311]
+name = "Raikoke"
+
+[volcano_312]
+name = "Rainier"
+
+[volcano_313]
+name = "Rajabasa"
+
+[volcano_314]
+name = "Raoul"
+
+[volcano_315]
+name = "Rasshua"
+
+[volcano_316]
+name = "Raung"
+
+[volcano_317]
+name = "Rausu"
+
+[volcano_318]
+name = "Redoubt"
+
+[volcano_319]
+name = "Reventador"
+
+[volcano_320]
+name = "Rincon de la Vieja"
+
+[volcano_321]
+name = "Roundtop"
+
+[volcano_322]
+name = "Ruapehu"
+
+[volcano_323]
+name = "Rudakov"
+
+[volcano_324]
+name = "Ruiz, Nevado del"
+
+[volcano_325]
+name = "Rumble IV"
+
+[volcano_326]
+name = "Saba"
+
+[volcano_327]
+name = "Sabancaya"
+
+[volcano_328]
+name = "Sakar"
+
+[volcano_329]
+name = "Sakura-jima"
+
+[volcano_330]
+name = "Salak"
+
+[volcano_331]
+name = "San Cristobal"
+
+[volcano_332]
+name = "San Salvador"
+
+[volcano_333]
+name = "San Vicente"
+
+[volcano_334]
+name = "Sanford"
+
+[volcano_335]
+name = "Sangay"
+
+[volcano_336]
+name = "Santa Ana"
+
+[volcano_337]
+name = "Santa Maria"
+
+[volcano_338]
+name = "Santorini"
+
+[volcano_339]
+name = "Sarychev Peak"
+
+[volcano_340]
+name = "Savo"
+
+[volcano_341]
+name = "Segula"
+
+[volcano_342]
+name = "Semeru"
+
+[volcano_343]
+name = "Semisopochnoi"
+
+[volcano_344]
+name = "Sete Cidades"
+
+[volcano_345]
+name = "Shasta"
+
+[volcano_346]
+name = "Sheveluch"
+
+[volcano_347]
+name = "Shikotsu"
+
+[volcano_348]
+name = "Shiretoko-Iwo-zan"
+
+[volcano_349]
+name = "Shishaldin"
+
+[volcano_350]
+name = "Sinarka"
+
+[volcano_351]
+name = "Smirnov"
+
+[volcano_352]
+name = "Sollipulli"
+
+[volcano_353]
+name = "Soputan"
+
+[volcano_354]
+name = "Soufriere Guadeloupe"
+
+[volcano_355]
+name = "Soufrière Hills"
+
+[volcano_356]
+name = "Soufrière St. Vincent"
+
+[volcano_357]
+name = "South Island"
+
+[volcano_358]
+name = "SP Mountain"
+
+[volcano_359]
+name = "Spurr"
+
+[volcano_360]
+name = "Srednii"
+
+[volcano_361]
+name = "Steller"
+
+[volcano_362]
+name = "Stromboli"
+
+[volcano_363]
+name = "Sumaco"
+
+[volcano_364]
+name = "Sumbing"
+
+[volcano_365]
+name = "Sundoro"
+
+[volcano_366]
+name = "Sunset Craters"
+
+[volcano_367]
+name = "Suswa"
+
+[volcano_368]
+name = "Suwanose-jima"
+
+[volcano_369]
+name = "Taal"
+
+[volcano_370]
+name = "Talang"
+
+[volcano_371]
+name = "Tambora"
+
+[volcano_372]
+name = "Tanaga and Takawangha"
+
+[volcano_373]
+name = "Tangkubanparahu"
+
+[volcano_374]
+name = "Tao-Rusyr Caldera"
+
+[volcano_375]
+name = "Tarso Voon"
+
+[volcano_376]
+name = "Telica"
+
+[volcano_377]
+name = "Tenerife"
+
+[volcano_378]
+name = "Tengger Caldera and Bromo"
+
+[volcano_379]
+name = "Three Fingered Jack"
+
+[volcano_380]
+name = "Three Sisters"
+
+[volcano_381]
+name = "Thule Islands"
+
+[volcano_382]
+name = "Tiatia"
+
+[volcano_383]
+name = "Toba"
+
+[volcano_384]
+name = "Todoko-Ranu"
+
+[volcano_385]
+name = "Tokachi"
+
+[volcano_386]
+name = "Tolbachik"
+
+[volcano_387]
+name = "Tolimán"
+
+[volcano_388]
+name = "Towada"
+
+[volcano_389]
+name = "Traitor's Head"
+
+[volcano_390]
+name = "Tri Sestry"
+
+[volcano_391]
+name = "Tristan da Cunha"
+
+[volcano_392]
+name = "Tsurumi"
+
+[volcano_393]
+name = "Tungurahua"
+
+[volcano_394]
+name = "Ubehebe Craters"
+
+[volcano_395]
+name = "Ubinas"
+
+[volcano_396]
+name = "Udina"
+
+[volcano_397]
+name = "Ugashik and Peulik"
+
+[volcano_398]
+name = "Uinkaret Volcanic Field"
+
+[volcano_399]
+name = "Ulawun"
+
+[volcano_400]
+name = "Umboi"
+
+[volcano_401]
+name = "Undara"
+
+[volcano_402]
+name = "Ungaran and Telomoyo"
+
+[volcano_403]
+name = "Unzen"
+
+[volcano_404]
+name = "Urataman"
+
+[volcano_405]
+name = "Ushishur"
+
+[volcano_406]
+name = "Usu"
+
+[volcano_407]
+name = "Uzon"
+
+[volcano_408]
+name = "Veniaminof"
+
+[volcano_409]
+name = "Vernadskii Ridge"
+
+[volcano_410]
+name = "Vesuvius"
+
+[volcano_411]
+name = "Villarrica"
+
+[volcano_412]
+name = "Vilyuchik"
+
+[volcano_413]
+name = "Visoke"
+
+[volcano_414]
+name = "Visoke"
+
+[volcano_415]
+name = "Vsevidof and Recheschnoi"
+
+[volcano_416]
+name = "Vulcano"
+
+[volcano_417]
+name = "Washington"
+
+[volcano_418]
+name = "Wau-en-Namus"
+
+[volcano_419]
+name = "Westdahl"
+
+[volcano_420]
+name = "White Island"
+
+[volcano_421]
+name = "Wrangell"
+
+[volcano_422]
+name = "Wudalianchi"
+
+[volcano_423]
+name = "Yake-dake"
+
+[volcano_424]
+name = "Yali"
+
+[volcano_425]
+name = "Yantarni"
+
+[volcano_426]
+name = "Yasur"
+
+[volcano_427]
+name = "Yellowstone"
+
+[volcano_428]
+name = "Zavaritzki Caldera"
+
+[volcano_429]
+name = "Zheltovsky"
+
+[volcano_430]
+name = "Zhupanovsky"
+
+[volcano_431]
+name = "Zimina"
